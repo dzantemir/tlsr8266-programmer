@@ -5,7 +5,7 @@
 > Процесс общения с микроконтроллером не всегда стабилен поэтому если будут вылитать окна с ошибками то просто переподключайтесь заново
 
 
-![](https://github.com/dzantemir/tlsr8266-programmer/assets/171680786/3c410656-cdde-45fa-a3e6-0a38378d0082 | width=100)
+![](https://github.com/dzantemir/tlsr8266-programmer/assets/171680786/3c410656-cdde-45fa-a3e6-0a38378d0082)
 ![](https://github.com/dzantemir/tlsr8266-programmer/assets/171680786/801d637a-bac5-4c9e-aa67-4c5cca11f727)
 ![](https://github.com/dzantemir/tlsr8266-programmer/assets/171680786/091c4570-3b0d-46c2-b555-95ae49f37d0a)
 ![](https://github.com/dzantemir/tlsr8266-programmer/assets/171680786/83c3fcb5-e862-435c-85e6-3d389429d7f8)
